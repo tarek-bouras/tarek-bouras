@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm Tarek<br><br>- 🔭 Software Developer<br>- 📚 Data Science enthusiast
+# 💫 Tarek:
+- 🔭 Software Developer<br>- 📚 Data Science enthusiast
 
 
 ## 🌐 Socials:
