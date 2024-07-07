@@ -1,5 +1,6 @@
 # 💫 Tarek:
-- 🔭 Software Developer<br>- 📚 Data Science enthusiast
+- 🔭 Software Developer<br>
+- 📚 Data Science enthusiast
 
 
 ## 🌐 Socials:
